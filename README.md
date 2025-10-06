@@ -14,7 +14,7 @@
 
 | **Nombre** | **Descripción** | **GitHub Stars** |
 |-------------|-----------------|------------------|
-| [Calculadora-Conciliacion-Huamanga](https://github.com/RobertPillaca/Calculadora-Conciliacion-Huamanga) | Aplicación web desarrollada en **HTML, CSS, JavaScript y PHP**, diseñada para apoyar el cálculo de tarifas y procedimientos en un **Centro de Conciliación en Huamanga**. | ![Stars](https://img.shields.io/github/stars/RobertPillaca/Calculadora-Conciliacion-Huamanga) |
+| [Calculadora-Conciliacion-Huamanga](https://github.com/robertpillaca27/Calculadora-Conciliacion-Huamanga) | Aplicación web desarrollada en **HTML, CSS, JavaScript y PHP**, diseñada para apoyar el cálculo de tarifas y procedimientos en un **Centro de Conciliación en Huamanga**. | ![Stars](https://img.shields.io/github/stars/robertpillaca27/Calculadora-Conciliacion-Huamanga) |
 | [BaseDatos-Ventas](https://github.com/RobertPillaca/BaseDatos-Ventas) | Modelo de base de datos para una empresa de ventas, con tablas de clientes, productos, pagos y vendedores. | ![Stars](https://img.shields.io/github/stars/RobertPillaca/BaseDatos-Ventas) |
 | [Sistema-Licencias-Huamanga](https://github.com/RobertPillaca/Sistema-Licencias-Huamanga) | Sistema de gestión para licencias y control urbano de la Municipalidad de Huamanga. | ![Stars](https://img.shields.io/github/stars/RobertPillaca/Sistema-Licencias-Huamanga) |
 
