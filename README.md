@@ -6,7 +6,7 @@
 - 🌱 Actualmente aprendiendo **PHP, React, y optimización de bases de datos SQL Server y MySQL.**
 - 💬 Pregúntame acerca de **JavaScript, desarrollo web front-end y back-end, y diseño de interfaces.**
 - 📫 Puedes contactarme en: **[LinkedIn](https://www.linkedin.com/in/tu-perfil)**  
-- ⚙️ Mi perfil en GitHub: [RobertPillaca](https://github.com/robertpillaca27)
+- ⚙️ Mi perfil en GitHub: [robertpillaca27](https://github.com/robertpillaca27)
 
 ---
 
